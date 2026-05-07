@@ -28,3 +28,8 @@ Database: SQL for structured competency mapping
 
 <img width="1072" height="680" alt="image" src="https://github.com/user-attachments/assets/bba23b2e-32cb-4079-b726-6448a502deff" />
 This is the distribution of all applicants from the Dataset. More than half of the students are from State Schools, with thre remaining coming from Ivy, HBCU, Womens and Other categories.
+
+<img width="1908" height="955" alt="image" src="https://github.com/user-attachments/assets/bc326d91-e067-4492-a2fb-1abc323d7c1e" />
+
+This is the actual Ai Ethical Screener
+
