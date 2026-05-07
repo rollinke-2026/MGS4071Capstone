@@ -4,6 +4,11 @@ Project Mission
 Traditional AI recruitment tools often unintentionally mirror human bias. This project is a merit-first screening engine designed to strip away demographic identifiers and focus exclusively on the intersection of candidate competencies and job requirements.
 
 ## Key Functionality
+
+Dataset Creation: Creation of a Syntehtic Dataset
+
+EDA: Standard EDA to understand the nature of the Dataset
+
 PII Scrubbing: Utilizes NLP to sanitize resumes by removing names, contact info, and demographic proxies.
 
 Weighted Skill Matching: Maps candidate experience to job descriptions using a customized similarity scoring algorithm.
