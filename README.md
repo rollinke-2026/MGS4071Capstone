@@ -25,3 +25,6 @@ Libraries: Pandas, NumPy, Scikit-learn, Spacy (NLP)
 Visualization: Streamlit for the recruiter-facing audit dashboard
 
 Database: SQL for structured competency mapping
+
+<img width="1072" height="680" alt="image" src="https://github.com/user-attachments/assets/bba23b2e-32cb-4079-b726-6448a502deff" />
+This is the distribution of all applicants from the Dataset. More than half of the students are from State Schools, with thre remaining coming from Ivy, HBCU, Womens and Other categories.
